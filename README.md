@@ -9,7 +9,7 @@ The application exposes the following API endpoints:
 
 ## Database
 
-The application uses H2 as the in-memory database. The database is configured using the properties in the `application.properties` file. The `data.sql` file is used to initialize the database with some sample data.
+The application uses H2 as the in-memory database. The database is configured using the properties in the `application.properties` file. 
 
 ## Build and Run
 
